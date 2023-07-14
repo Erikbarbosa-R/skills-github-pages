@@ -1,4 +1,4 @@
 ---
-title: seja bem vindo ao meu portfolio
+titulo: seja bem vindo ao meu portfolio
 ---
 
